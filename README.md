@@ -49,7 +49,13 @@
 ---
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
+
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=The+quieter+you+become%2C+the+more+you+can+hear.;Hack+the+planet.;Security+is+not+a+product%2C+but+a+process.;The+best+defense+is+a+good+offense.)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
