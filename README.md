@@ -1,3 +1,6 @@
+<h3 align="center">👋 Hi, I'm Md Pranto — A Cyber Security Professional & AI Enthusiast</h3>
+<h4 align="center">🎓 Bachelor of Science in Computer Science and Engineering</h4>
+
 # 💫 About Me:
 Penetration Tester  |  Bug Hunter  |  Jr. Red Team Analyst 🔴<br>Building at the intersection of Cybersecurity & Artificial Intelligence <br>— from offensive security tools to ML-powered web apps. <br>I break things to make them stronger, and build things to make security smarter.
 
