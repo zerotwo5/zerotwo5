@@ -105,32 +105,5 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=zerotwo5&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-
-
-## ✍️ Hacker Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer&fontColor=00ff41)
-
-</div>
 
 <!-- Crafted with 🖤 by zerotwo5 -->
