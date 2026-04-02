@@ -10,6 +10,7 @@
 ### 🚀 About Me
 
   <h3> 🔴 Penetration Tester  |  Bug Hunter  |  Jr. Red Team Analyst <br>From writing exploits to training models — security is my domain, AI is my weapon. <br> i break things to make them stronger, and build things to make security smarter. </h3>
+- 📝 Portfolio: **https://zerotwo5.github.io/portfolio/**
 
 - 🌱 I’m currently deep diving into **Data Science & Artificial Intelligence**  
 - 💬 Ask me anything about **Python, Data Science & AI**  
