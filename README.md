@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D%3E+Penetration+Tester;whoami+%3D%3E+Bug+Hunter;whoami+%3D%3E+Jr.+Red+Team+Analyst+%F0%9F%94%B4;whoami+%3D%3E+AI+%2F+ML+Developer;%5B+Breaking+things+to+build+them+stronger+%5D)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zerotwo5&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/zerotwo5?color=00ff41&style=flat-square&logo=github&label=Followers)](https://github.com/zerotwo5)
 
 </div>
 
@@ -35,22 +33,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto025)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpranto025@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pranto025)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/pranto025)
+
 
 </div>
 
----
 
-## 🛡️ Cybersecurity Profiles
-
-<div align="center">
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/pranto025.png)](https://tryhackme.com/p/pranto025)
-
-</div>
-
----
 
 ## 💻 Tech Arsenal
 
@@ -128,17 +115,7 @@
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/zerotwo5/zerotwo5/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## ✍️ Hacker Quote
 
