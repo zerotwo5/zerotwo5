@@ -20,7 +20,12 @@
 
 
 ### 🌐 Contact with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto025) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdpranto025@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=telegram&logoColor=white)](https://t.me/pranto025) [![Kaggle](https://img.shields.io/badge/Kaggle-%23202020.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/pranto025)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranto025)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdpranto025@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pranto025)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23202020.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pranto025)
+
 
 ---
 
