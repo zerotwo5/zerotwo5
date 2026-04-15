@@ -47,9 +47,9 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=zerotwo5&theme=dark&hide_border=true&include_all_commits=true&count_private=false" width="49%" /> -->
 <br >
-<img src="https://streak-stats.demolab.com?user=zerotwo5&theme=dark&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=zerotwo5&theme=dark&hide_border=true" width="69%" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&hide_border=true&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&hide_border=true&layout=compact" width="50%" />
 
 </div>
 
