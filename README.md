@@ -49,7 +49,7 @@
 <br >
 <img src="https://streak-stats.demolab.com?user=zerotwo5&theme=dark&hide_border=true" width="79%" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&hide_border=true&layout=compact" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&hide_border=true&layout=compact" width="50%" />
 
 </div>
 
