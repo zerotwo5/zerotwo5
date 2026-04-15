@@ -14,7 +14,7 @@
 - 📝 Portfolio: **[Click Here](https://zerotwo5.github.io/portfolio/)**
 - 🌱 I’m currently deep diving into **Data Science & Artificial Intelligence**  
 - 💬 Ask me anything about **Python, Data Science & AI**  
-- 📫 You can reach me at: **mdpranto025@gmail.com**
+- 📫 You can reach me at: **[mdpranto025@gmail.com](mailto:mdpranto025@gmail.com)**
 
 ---
 
