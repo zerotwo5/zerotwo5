@@ -8,8 +8,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=zerotwo5&theme=dark" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&layout=compact" width="38%" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=zerotwo5&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&layout=compact)
 
 <br><br>
 
