@@ -1,8 +1,11 @@
-name: Update README stats cards
+name: Update README streak stats
 
 on:
   schedule:
     - cron: "0 0 * * *"   # once a day at midnight UTC
+  push:
+    paths:
+      - ".github/workflows/update-stats.yml"
   workflow_dispatch:        # lets you click "Run workflow" manually on the Actions tab
 
 jobs:
@@ -11,28 +14,19 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true
-          path: profile/stats.svg
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit cards
+      - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --staged --quiet || git commit -m "chore: update stats cards [skip ci]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git diff --staged --quiet || git commit -m "chore: update streak stats [skip ci]"
           git push
