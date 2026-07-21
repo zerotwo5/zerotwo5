@@ -8,7 +8,17 @@
 
 <div align="center">
 
+![Stats](profile/stats.svg) ![Top Languages](profile/top-langs.svg)
+
+<!--
+These two images are generated INSIDE your own repo by the
+update-stats.yml GitHub Action (see setup steps below), so they never
+depend on a third-party server and won't randomly break.
+
+Old version that pulled from the free public demo services (can be
+flaky — "Failed to retrieve contributions" when they're rate-limited):
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zerotwo5&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerotwo5&theme=dark&layout=compact)
+-->
 
 <br><br>
 
