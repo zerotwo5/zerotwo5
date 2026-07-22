@@ -16,17 +16,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats
+      - name: Generate streak stats (dark)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117
-          path: profile/streak.svg
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0B1220
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats (light)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&hide_border=true&background=FFFFFF
+          path: profile/streak-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
+          git add profile/streak-dark.svg profile/streak-light.svg
           git diff --staged --quiet || git commit -m "chore: update streak stats [skip ci]"
           git push
