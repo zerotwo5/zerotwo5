@@ -10,23 +10,26 @@
 
 <div align="center">
 
+<b>Contact:</b>
+&nbsp;&nbsp;
 <a href="https://github.com/zerotwo5">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/F8FAFC">
-    <img src="https://cdn.simpleicons.org/github/0F172A" width="32" height="32" alt="GitHub"/>
-  </picture>
+  <img src="https://img.icons8.com/color/48/github.png" width="40" height="40" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/pranto025">
-  <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="32" height="32" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://t.me/pranto025">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/>
+  <img src="https://img.icons8.com/color/48/telegram-app.png" width="40" height="40" alt="Telegram"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/pranto025">
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="32" height="32" alt="Kaggle"/>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/pranto025">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mdpranto025@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png" width="40" height="40" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://zerotwo5.github.io/portfolio/">
+  <img src="https://postimg.cc/sGdLgVZb" width="40" height="40" alt="Portfolio"/>
 </a>
 
 </div>
