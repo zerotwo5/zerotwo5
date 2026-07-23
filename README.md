@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<div align="center">
+
 
 <div align="center">
 
@@ -33,6 +33,8 @@
 </a>
 
 </div>
+
+<div align="center">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,mysql,git,github,vscode,wordpress,linux,electron,npm," />
