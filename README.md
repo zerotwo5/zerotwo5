@@ -39,7 +39,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,mysql,git,github,vscode,wordpress,linux,electron,npm," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,mysql,git,github,vscode,wordpress,linux,electron,npm,"/>
 </p>
 
 ![Streak Stats](profile/streak-dark.svg#gh-dark-mode-only)
