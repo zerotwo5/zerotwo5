@@ -8,6 +8,29 @@
 
 <div align="center">
 
+<div align="center">
+
+<a href="https://github.com/zerotwo5">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/F8FAFC">
+    <img src="https://cdn.simpleicons.org/github/0F172A" width="32" height="32" alt="GitHub"/>
+  </picture>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/pranto025">
+  <img src="https://img.shields.io/badge/-%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="32" height="32" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/pranto025">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" alt="Telegram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/pranto025">
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="32" height="32" alt="Kaggle"/>
+</a>
+
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,mysql,git,github,vscode,wordpress,linux,electron,npm," />
 </p>
