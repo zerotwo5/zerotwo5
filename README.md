@@ -7,10 +7,9 @@
 </p>
 
 
-
+#### Contact:
 <div align="center">
 
-<b>Contact:</b>
 &nbsp;&nbsp;
 <a href="https://github.com/zerotwo5">
   <img src="https://img.icons8.com/color/48/github.png" width="40" height="40" alt="GitHub"/>
@@ -33,6 +32,9 @@
 </a>
 
 </div>
+
+<br>
+
 
 <div align="center">
 
