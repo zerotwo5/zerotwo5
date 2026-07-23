@@ -29,7 +29,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://zerotwo5.github.io/portfolio/">
-  <img src="https://postimg.cc/sGdLgVZb" width="40" height="40" alt="Portfolio"/>
+  <img src="https://i.postimg.cc/VvdP4vss/icons8-portfolio-48.png" width="40" height="40" alt="Portfolio"/>
 </a>
 
 </div>
