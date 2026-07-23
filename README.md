@@ -8,6 +8,10 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,react,js,html,css,git,github,vscode,autocad" />
+</p>
+
 ![Streak Stats](profile/streak-dark.svg#gh-dark-mode-only)
 ![Streak Stats](profile/streak-light.svg#gh-light-mode-only)
 
